@@ -1,2 +1,4 @@
 # data-science-project
 This repository contains the final report from data science project I conducted with US EEOC data using Jupyter, Python, Pandas, and Matplotlib.
+
+For this project I took data compiled from the United States Equal Employment Opportunity Commission and performed a regression analysis to predict what private employment of women and people of color might have looked like in select industries during the Trump administration. The project was completed in five phases, including a coordination and planning phase, a brainstorming phase for my research question, a data collection and exploratory data analysis phase, a phase to confirm my intended analysis, a drafting phase, and the completion phase. This process allowed me to practice data science techniques, as well as the process of creating a data science research report.
